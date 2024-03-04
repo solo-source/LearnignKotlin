@@ -8,6 +8,7 @@ fun main() {
     println("$deletedPhoto photos deleted.")
     println("${photoAvailable - deletedPhoto} photos left.")
 
+
     var cartTotal = 20
     cartTotal = 30
     println("Total: $cartTotal")
